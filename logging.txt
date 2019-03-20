@@ -1,0 +1,11 @@
+commit 1fc91c005527f8d6116c0b611462c47446361c3d
+Author: Stefan <stefan5andonov@yahoo.com>
+Date:   Wed Mar 20 18:05:26 2019 +0100
+
+    modify l1.txt
+
+commit 472b1f59d909b835d64478482596236626f8b2f2
+Author: Stefan <stefan5andonov@yahoo.com>
+Date:   Wed Mar 20 18:03:37 2019 +0100
+
+    Initial commit
